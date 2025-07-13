@@ -1,4 +1,6 @@
 # ResNet50을 활용한 스포츠 이미지 분류
+<img width="916" height="130" alt="image" src="https://github.com/user-attachments/assets/f3f8c7be-fe92-4422-9805-fc7a1e129805" />
+
 
 100가지 종류의 스포츠 이미지를 분류하는 딥러닝 프로젝트
 
