@@ -112,7 +112,7 @@ unzip sports-classification.zip
 
 ## 팀원별 기여도
 
-### 유수종
+### 유수종 - https://github.com/paulyu8868
 - 프로젝트 총괄 및 문서 작성
 - 모델 성능 비교 분석
 - 최종 보고서 작성
