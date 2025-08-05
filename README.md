@@ -112,23 +112,6 @@ unzip sports-classification.zip
 - Transfer Learning을 통한 효율적인 학습 시간 단축
 - 안정적인 학습 곡선으로 overfitting 방지 성공
 
-## 팀원별 기여도
-
-### 유수종 - https://github.com/paulyu8868
-- 프로젝트 총괄 및 문서 작성
-- 모델 성능 비교 분석
-- 최종 보고서 작성
-
-### 박준서
-- 이론적 배경 연구 및 모델 구조 설계
-- 코드 구조화 및 최적화
-- 프로젝트 발표 담당
-
-### 강민성
-- 아이디어 제시 및 팀원 의견 수렴
-- 회의 내용 정리 및 일정 관리
-- 팀 협업 및 커뮤니케이션 주도
-
 ## 향후 개선사항
 - Data Augmentation 적용으로 추가 성능 향상
 - 최신 모델 (EfficientNet, Vision Transformer) 비교 실험
